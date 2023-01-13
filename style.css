@@ -1,8 +1,10 @@
 body {
-  background: linear-gradient(black, white);
+  background: black;
   color: #fff;
   padding: 25px;
   font-family: 'Anton', sans-serif;
   font-size: 50px
 }
 
+h1 {
+  background: linear-gradient(white, black)
